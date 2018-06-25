@@ -1,8 +1,12 @@
 # My_Contacts
 This app is used to store the Contacts in your local.
 
-![img_5255](https://user-images.githubusercontent.com/20789816/41829446-6c0618c4-7858-11e8-9a45-0bcba4fefad6.png)
-![img_5254](https://user-images.githubusercontent.com/20789816/41829450-741b8d14-7858-11e8-9b28-cd83640e97dd.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20789816/41829446-6c0618c4-7858-11e8-9a45-0bcba4fefad6.png" width="250"/>
+  <img src="https://user-images.githubusercontent.com/20789816/41829450-741b8d14-7858-11e8-9b28-cd83640e97dd.png" width="250"/>
+</p>
+
+
 
 1. Create DB With entity in your Xcode Project.
 2. Configure DB in AppDeligates
